@@ -1,0 +1,6 @@
+ID,companyName,contactName,email,createdAt,createdBy,modifiedAt,modifiedBy
+sup-01,TechCorp,John Doe,contact@techcorp.com,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+sup-02,Global Logistics,Sarah Smith,info@global.com,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+sup-03,OfficeMax,Mike Ross,sales@officemax.com,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+sup-04,Data Systems,Emma Watt,support@datasys.com,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+sup-05,Prime Supplies,Leon S.,prime@supplies.com,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin

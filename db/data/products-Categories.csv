@@ -1,0 +1,6 @@
+ID,name,description,createdAt,createdBy,modifiedAt,modifiedBy
+cat-01,Electronics,High-end gadgets and hardware,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+cat-02,Furniture,Office and home furniture,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+cat-03,Stationery,Writing tools and paper,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+cat-04,Accessories,Peripherals and add-ons,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+cat-05,Software,Digital licenses and apps,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin

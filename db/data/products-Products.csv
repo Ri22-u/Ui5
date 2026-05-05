@@ -1,0 +1,6 @@
+ID,productName,price,stock,isFinished,category_ID,supplier_ID,createdAt,createdBy,modifiedAt,modifiedBy
+prod-01,Laptop Pro,1200.00,15,true,cat-01,sup-01,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+prod-02,Ergonomic Chair,350.00,4,false,cat-02,sup-02,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+prod-03,Wireless Mouse,45.00,50,false,cat-02,sup-03,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+prod-04,Mechanical Keyboard,110.00,8,true,cat-04,sup-04,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
+prod-05,Cloud Storage 1TB,99.00,100,false,cat-05,sup-05,2024-01-01T00:00:00Z,admin,2024-01-01T00:00:00Z,admin
