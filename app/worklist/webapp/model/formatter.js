@@ -2,16 +2,15 @@ sap.ui.define([], function () {
     "use strict";
     return {
         availabilityText: function (vValue) {
-    return (vValue == true) ? "Discontinued" : "Active";
-},
-
-        
-        availabilityState: function (vValue) {
            
-            if (vValue === undefined || vValue === null) {
+            return (vValue === "Yes") ? "Discontinued" : "Active";
+        },
+
+        availabilityState: function (vValue) {
+            if (!vValue) {
                 return "None"; 
             }
-            return (vValue == true) ? "Error" : "Success"; 
+            return (vValue === "Yes") ? "Error" : "Success"; 
         }
     };
 });

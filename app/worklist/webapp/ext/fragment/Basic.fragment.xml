@@ -1,0 +1,19 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:macros="sap.fe.macros">
+	
+		<!-- <VBox id="VBox" class="sapUiSmallMargin">
+        <Label id="_IDGenLabel" text="Product Name" design="Bold"/>
+        <Text id="_IDGenText16" text="{productName}"></Text>
+
+        <Label id="_IDGenLabel1" text="Price" design="Bold" />
+        <Text id="_IDGenText7" text="{price} USD" />
+
+        <Label id="_IDGenLabel2" text="Availability Status" design="Bold" />
+        <ObjectStatus id="_IDGenObjectStatus1" 
+            text="{path: 'isFinished', formatter: '.formatter.availabilityText'}" 
+            state="{path: 'isFinished', formatter: '.formatter.availabilityState'}" />
+            
+        <Label id="_IDGenLabel3" text="Current Stock" design="Bold" />
+        <StepInput id="_IDGenStepInput" value="{stock}" min="0" width="120px" /> 
+    
+	</VBox> -->
+</core:FragmentDefinition>

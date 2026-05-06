@@ -1,0 +1,23 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:macros="sap.fe.macros">
+	
+	<VBox id="_IDGenVBox2" >
+		
+		<Label id="_IDGenLabel5" text="Category ID" />
+        <Text id="_IDGenText12" text="{category/ID}" class="sapUiSmallMarginBottom" />
+        
+        <Label id="_IDGenLabel6" text="Category Name" />
+        <Text id="_IDGenText71" text="{category/name}" class="sapUiSmallMarginBottom" />
+
+        <Label id="_IDGenLabel7" text="Description" />
+        <Text id="_IDGenText18" text="{category/description}" />
+		
+	</VBox>
+	<!-- <VBox id="_IDGenVBox2" items="{/categories}">
+    <items>
+        <VBox id="_IDGenVBox" class="sapUiSmallMarginBottom">
+            <Label id="_IDGenLabel1" text="Category Name" />
+            <Text id="_IDGenText" text="{name}" /> -->
+        <!-- </VBox>
+    </items> -->
+<!-- </VBox> -->
+</core:FragmentDefinition>
